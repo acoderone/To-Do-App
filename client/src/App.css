@@ -1,0 +1,43 @@
+
+.inputField{
+  display: flex;
+  
+  justify-content: center;
+}
+
+.myuL{
+  
+  text-align: center;
+  display: inline-block;
+ 
+}
+.container{
+  text-align: center;
+  
+}
+ul{
+  list-style-type: none;
+  display: inline-block;
+ 
+  
+}
+.card-content{
+  background-color: #E2F6CA;
+ 
+ 
+}
+.card{
+  margin-bottom: 25px;
+  justify-content: space-between;
+  
+ 
+}
+
+.todo{
+  padding: 25px;
+
+}
+
+.typo{
+  font-family: 'Satisfy', cursive;
+}
